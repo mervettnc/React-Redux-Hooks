@@ -1,0 +1,35 @@
+{
+    "Add":{
+        "1":"Başarıyla eklendi"
+    },
+    "Edit":{
+        "1":"Başarıyla güncellendi"
+    },
+    "Delete":{
+        "1":"Başarıyla silindi"
+    },
+    "AddForm":{
+        "1":"Öğrenci Ekle"
+    },
+    "AddButton":{
+        "1":"Ekle"
+    },
+    "PlaceHolder":{
+        "1":"Öğrenci Adı"
+    },
+    "EditStudent":{
+        "1":"Öğrenci Düzenle"
+    },
+    "SaveButton":{
+        "1":"Kaydet"
+    },
+    "EditButton":{
+        "1":"Düzenle"
+    },
+    "DeleteButton":{
+        "1":"Sil"
+    },
+    "Name":{
+        "1":"İsim"
+    }
+}

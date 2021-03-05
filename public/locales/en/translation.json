@@ -1,0 +1,45 @@
+{
+    "Add":{
+        "1":"successfully added"
+    },
+    "Edit":{
+        "1":"successfully editted"
+    },
+    "Delete":{
+        "1":"successfully deleted"
+    },
+    "AddForm":{
+        "1":"Add New Student"
+    },
+    "AddButton":{
+        "1":"Add"
+    },
+    "PlaceHolder":{
+        "1":"Student Name"
+    },
+    "EditStudent":{
+        "1":"Edit Student"
+    },
+    "SaveButton":{
+        "1":"Save"
+    },
+    "EditButton":{
+        "1":"Edit"
+    },
+    "DeleteButton":{
+        "1":"Delete"
+    },
+    "Name":{
+        "1":"Name"
+    },
+
+    "AddNot":{
+        "1":"Added successfully"
+    },
+    "EditNot":{
+        "1":"Edited successfully"
+    },
+    "DeleteNot":{
+        "1":"Deleted successfully"
+    }
+}
